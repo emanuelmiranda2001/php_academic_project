@@ -11,4 +11,3 @@ This was the first project where I used PHP. In this project I:
 <br>&emsp;- developed an element search system on the website; 
 <br>&emsp;- allowed uploading files, with a maximum size of 2MB.
 
-The code can be seen on the master branch.
